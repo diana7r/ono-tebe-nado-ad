@@ -1,5 +1,3 @@
-/* место для вашего кода */
-
 main {
   display: flex;
   flex-direction: column;
@@ -24,9 +22,6 @@ main {
   width: 140px;
 }
 
-/*.header__logo-image{
-    width: 100%;
-}*/
 
 .header__links-list {
   display: flex;
@@ -142,9 +137,6 @@ main {
   text-align: right;
 }
 
-
-
-/* Убирает ненужный отступ в конце слова, создаваемый свойством letter-spacing всего элемента */
 
 .remove-spacing {
   letter-spacing: normal;
